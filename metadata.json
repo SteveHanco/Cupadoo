@@ -1,0 +1,7 @@
+{
+  "name": "CUPADOO - Online Perudo",
+  "description": "A vibrant online multiplayer Perudo (Liar's Dice) game with customizable cups, real-time table UI, and global stats.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
